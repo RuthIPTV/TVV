@@ -1,31 +1,87 @@
 #EXTM3U
-#EXTINF:-1 ,女神金
-http://akm-tct.douyucdn.cn/live/747764rSNO2ic2gx.flv
-#EXTINF:-1 ,狄仁杰
-http://akm-tct.douyucdn.cn/live/6027991rCMbJvPpG.flv
-#EXTINF:-1 ,漫威电影
-http://akm-tct.douyucdn.cn/live/8107217rBKAZ9Wxk.flv
-#EXTINF:-1 ,海绵宝宝
-http://akm-tct.douyucdn.cn/live/7528160rHRZpSaGu.flv
-#EXTINF:-1 ,西游记
-http://akm-tct.douyucdn.cn/live/8953746r5zhECK0X.flv
-#EXTINF:-1 ,斗鱼电影
-http://akm-tct.douyucdn.cn/live/20415rnWbjg6Ex1K.flv
-#EXTINF:-1 ,好先生
-http://akm-tct.douyucdn.cn/live/9650792rzzA8AMxf.flv
-#EXTINF:-1 ,周星驰
-http://akm-tct.douyucdn.cn/live/122402rK7MO9bXSq.flv
-#EXTINF:-1 ,马老师
-http://akm-tct.douyucdn.cn/live/606118r6n9kQ9krJ.flv
-#EXTINF:-1 ,♥️贝爷MAX厅♥️科幻 动作 经典 喜剧
-http://akm-tct.douyucdn.cn/live/4332rb3xGxwK1FNC.flv
-#EXTINF:-1 ,♥️十三香♥️经典 科幻 动作 二战
-http://akm-tct.douyucdn.cn/live/4870914rUEc3d4lZ.flv
-#EXTINF:-1 ,♥️周杰伦♥️专场♥️MV音乐演唱会电影
-http://akm-tct.douyucdn.cn/live/7537296rv3IBYVUd.flv
-#EXTINF:-1 ,【點點陪看】60帧 科幻 动作 喜剧电影
-http://akm-tct.douyucdn.cn/live/323876rpFaccVdDN.flv
-#EXTINF:-1 ,【林正英】僵尸 女鬼 弹幕 护体
-http://akm-tct.douyucdn.cn/live/218859rvxRTAhGUc.flv
-#EXTINF:-1 ,柯南
-http://akm-tct.douyucdn.cn/live/6484910rVYNiQmRJ.flv
+#EXTINF:-1 ,CCTV1
+http://124.220.17.172/as.php?id=1
+#EXTINF:-1 ,CCTV2
+http://124.220.17.172/as.php?id=2
+#EXTINF:-1 ,CCTV3
+http://124.220.17.172/as.php?id=3
+#EXTINF:-1 ,CCTV4
+http://124.220.17.172/as.php?id=4
+#EXTINF:-1 ,CCTV5
+http://124.220.17.172/as.php?id=5
+#EXTINF:-1 ,CCTV6
+http://124.220.17.172/as.php?id=6
+#EXTINF:-1 ,CCTV7
+http://124.220.17.172/as.php?id=7
+#EXTINF:-1 ,CCTV8
+http://124.220.17.172/as.php?id=8
+#EXTINF:-1 ,CCTV9
+http://124.220.17.172/as.php?id=9
+#EXTINF:-1 ,CCTV10
+http://124.220.17.172/as.php?id=10
+#EXTINF:-1 ,CCTV11
+http://124.220.17.172/as.php?id=11
+#EXTINF:-1 ,CCTV12
+http://124.220.17.172/as.php?id=12
+#EXTINF:-1 ,CCTV13
+http://124.220.17.172/as.php?id=13
+#EXTINF:-1 ,CCTV14
+http://124.220.17.172/as.php?id=14
+#EXTINF:-1 ,CCTV15
+http://124.220.17.172/as.php?id=15
+#EXTINF:-1 ,CCTV17
+http://124.220.17.172/as.php?id=17
+#EXTINF:-1 ,湖南卫视
+http://124.220.17.172/as.php?id=20
+#EXTINF:-1 ,江苏卫视
+http://124.220.17.172/as.php?id=22
+#EXTINF:-1 ,东方卫视
+http://124.220.17.172/as.php?id=23
+#EXTINF:-1 ,北京卫视
+http://124.220.17.172/as.php?id=24
+#EXTINF:-1 ,浙江卫视
+http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
+#EXTINF:-1 ,天津卫视
+http://124.220.17.172/as.php?id=25
+#EXTINF:-1 ,广东卫视
+http://124.220.17.172/as.php?id=26
+#EXTINF:-1 ,虎牙_好先生
+http://txtest-xp2p.p2p.huya.com/srt/1449584504-1449584504-6225918037468381184-3049003172-10057-A-0-1.xs
+#EXTINF:-1 ,虎牙_林正英
+http://txtest-xp2p.p2p.huya.com/srt/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.xs
+#EXTINF:-1 ,虎牙_周星驰
+http://txtest-xp2p.p2p.huya.com/srt/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.xs
+#EXTINF:-1 ,虎牙_极限挑战1-4季
+http://txtest-xp2p.p2p.huya.com/srt/1423782086-1423782086-6115097496000659456-2847687628-10057-A-0-1.xs
+#EXTINF:-1 ,虎牙_纪晓岚
+http://txtest-xp2p.p2p.huya.com/srt/1394565204-1394565204-5989611943319568384-2789253864-10057-A-0-1-imgplus.xs
+#EXTINF:-1 ,虎牙_许三多
+http://txtest-xp2p.p2p.huya.com/srt/1394575555-1394575555-5989656400526049280-2789274566-10057-A-0-1.xs
+#EXTINF:-1 ,虎牙_甜妹小也Baby
+http://txtest-xp2p.p2p.huya.com/srt/10066660-10066660-43235975479951360-20256776-10057-A-0-1.xs
+#EXTINF:-1 ,虎牙_神雕侠侣
+http://txtest-xp2p.p2p.huya.com/srt/1423787869-1423787869-6115122333796532224-2847699194-10057-A-0-1.xs
+#EXTINF:-1 ,虎牙_舞蹈(18:00开始)
+http://txtest-xp2p.p2p.huya.com/src/71862053-2645534014-11362482070585606144-3684952466-10057-A-0-1.xs
+#EXTINF:-1 ,斗鱼_贝爷影厅
+https://epg.112114.xyz/douyu/4332
+#EXTINF:-1 ,斗鱼_贝爷影厅2号
+https://epg.112114.xyz/douyu/36337
+#EXTINF:-1 ,斗鱼_贝爷影厅3号
+https://epg.112114.xyz/douyu/252802
+#EXTINF:-1 ,斗鱼_鱼的左手（漫威电影）
+https://epg.112114.xyz/douyu/8107217
+#EXTINF:-1 ,斗鱼_鱼的右手（武打/动作）
+https://epg.112114.xyz/douyu/6763930
+#EXTINF:-1 ,斗鱼_动漫合集
+https://epg.112114.xyz/douyu/7620081
+#EXTINF:-1 ,斗鱼_腐团儿
+https://epg.112114.xyz/douyu/4624967
+#EXTINF:-1 ,斗鱼_女神金电影
+https://epg.112114.xyz/douyu/747764
+#EXTINF:-1 ,斗鱼_西游记
+https://epg.112114.xyz/douyu/8953746
+#EXTINF:-1 ,斗鱼_少女可乐橙
+https://epg.112114.xyz/douyu/20415
+#EXTINF:-1 ,斗鱼_成龙历险记
+https://epg.112114.xyz/douyu/7134757
