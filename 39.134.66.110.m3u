@@ -2,7 +2,7 @@
 #EXTINF:-1 ,CCTV1
 http://39.134.65.130:80/PLTV/88888888/224/3221225783/index.m3u8
 #EXTINF:-1 ,CCTV2
-http://39.134.63.11:6610/PLTV/88888888/224/3221225588/index.m3u8
+http://39.134.65.143:80/PLTV/88888888/224/3221225599/index.m3u8
 #EXTINF:-1 ,CCTV3
 http://39.134.65.130:80/PLTV/88888888/224/3221225799/index.m3u8
 #EXTINF:-1 ,CCTV4
@@ -20,7 +20,7 @@ http://39.134.65.130:80/PLTV/88888888/224/3221225676/index.m3u8
 #EXTINF:-1 ,CCTV10
 http://39.134.65.130:80/PLTV/88888888/224/3221225677/index.m3u8
 #EXTINF:-1 ,CCTV11
-http://218.29.55.44:808/hls/11/index.m3u8
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226240/1.m3u8
 #EXTINF:-1 ,CCTV12
 http://39.134.65.130:80/PLTV/88888888/224/3221225669/index.m3u8
 #EXTINF:-1 ,CCTV13
@@ -28,7 +28,7 @@ http://39.134.65.130:80/PLTV/88888888/224/3221226077/index.m3u8
 #EXTINF:-1 ,CCTV14
 http://39.134.65.130:80/PLTV/88888888/224/3221225674/index.m3u8
 #EXTINF:-1 ,CCTV15
-http://218.29.55.44:808/hls/24/index.m3u8
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8
 #EXTINF:-1 ,CCTV17
 http://39.134.65.130:80/PLTV/88888888/224/3221225708/index.m3u8
 #EXTINF:-1 ,安徽卫视
@@ -95,10 +95,6 @@ https://epg.112114.xyz/douyu/4332
 https://epg.112114.xyz/douyu/36337
 #EXTINF:-1 ,斗鱼_贝爷影厅3号
 https://epg.112114.xyz/douyu/252802
-#EXTINF:-1 ,斗鱼_鱼的左手（漫威电影）
-https://epg.112114.xyz/douyu/8107217
-#EXTINF:-1 ,斗鱼_鱼的右手（武打/动作）
-https://epg.112114.xyz/douyu/6763930
 #EXTINF:-1 ,斗鱼_动漫合集
 https://epg.112114.xyz/douyu/7620081
 #EXTINF:-1 ,斗鱼_腐团儿
